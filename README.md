@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hi, I’m Moses Cursor Ssebunya  
+*(GitHub: @Successfulsebunya| WordPress Contributor: @mosescursor)*  
 
-<!--
-**Successfulsebunya/Successfulsebunya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub followers](https://img.shields.io/github/followers/Successfulsebunya?label=Follow&style=social)](https://github.com/mosescursor)  
+[![Stars](https://img.shields.io/github/stars/Successfulsebunya?affiliations=OWNER%2CCOLLABORATOR&style=social)](https://github.com/mosescursor?tab=repositories)  
+![Profile Views](https://komarev.com/ghpvc/?username=Successfulsebunya&color=blueviolet)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 About Me
+💻 WordPress Developer | 🎨 Designer at heart | 🌍 Community Contributor  
+
+- Founder of **Cursor Technologies Uganda** (IT, websites, hosting, consultancy)  
+- Based in **Mukono, Uganda** 🇺🇬  
+- Passionate about **WordPress Core, plugins, Photos, TV, Testing, Accessibility and open source**  
+- Skilled in **WordPress, Illustrator, Microsoft Office, Documentation, Community, Program Management, Project Management**  
+- Active **Translator, Tester, Community Contributor, Accessibility Contributor & Technical Writer** in the WordPress community  
+
+---
+
+## 🚀 WordPress & Open Source Contributions  
+> *“I’m a website developer and WordPress enthusiast from Uganda. I love sharing knowledge, creating visually appealing websites, and contributing to open source.”* — [WordPress Profile](https://profiles.wordpress.org/mosescursor)  
+
+- 📝 Contributor to **WordPress Core** & **Meta projects**  
+- 🌐 Translator & Localization (Multilingual contributions)  
+- 🎥 Supporter of **WordPress TV** & documentation projects  
+- 🧑‍🤝‍🧑 Community involvement — mentoring, support, and advocacy  
+
+---
+
+## 📂 Featured Projects  
+
+
+
+---
+
+## 📊 GitHub Stats  
+
+![Moses' GitHub Stats](https://github-readme-stats.vercel.app/api?username=Successfulsebunya&show_icons=true&theme=radical)      ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Successfulsebunya&layout=compact&theme=radical)  
+
+---
+
+## 📫 Connect With Me  
+- 🌐 WordPress: [profiles.wordpress.org/mosescursor](https://profiles.wordpress.org/mosescursor)  
+- 💼 LinkedIn: [Moses Cursor Ssebunya](https://www.linkedin.com/in/moses-musoke-ssebunya-92005411a/) 
+- 🐦 Twitter: [@MoCursor](https://x.com/mocursor)  
+- 📧 Email: *mosescursor@gmail.com*  
+
+---
+
+⭐️ *“Whatever you do, work at it with all your heart, as working for the Lord.” — Colossians 3:23*  
