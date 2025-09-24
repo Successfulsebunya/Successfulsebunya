@@ -4,6 +4,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/Successfulsebunya?label=Follow&style=social)](https://github.com/mosescursor)  
 [![Stars](https://img.shields.io/github/stars/Successfulsebunya?affiliations=OWNER%2CCOLLABORATOR&style=social)](https://github.com/mosescursor?tab=repositories)  
 ![Profile Views](https://komarev.com/ghpvc/?username=Successfulsebunya&color=blueviolet)  
+[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/mocursor)  
 
 ---
 
@@ -48,7 +49,7 @@ A clean and responsive WordPress Block theme for bloggers and small businesses. 
 - 🌐 WordPress: [profiles.wordpress.org/mosescursor](https://profiles.wordpress.org/mosescursor)  
 - 💼 LinkedIn: [Moses Cursor Ssebunya](https://www.linkedin.com/in/moses-musoke-ssebunya-92005411a/) 
 - 🐦 Twitter: [@MoCursor](https://x.com/mocursor)  
-- 📧 Email: *mosescursor@gmail.com*  
+- 📧 Email: *mosescursor@gmail.com* 
 
 ---
 
