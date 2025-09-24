@@ -29,7 +29,11 @@
 ---
 
 ## 📂 Featured Projects  
-
+### 🔧 CursorFSE Theme (WordPress Block Theme)  
+A clean and responsive WordPress Block theme for bloggers and small businesses. <br/>
+[![Github Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/Successfulsebunya/CursorFSE)  
+📸 *Screenshot*  
+<img src="https://github.com/Successfulsebunya/CursorFSE/blob/main/Screenshot.png" width="600" alt="Cursor FSE Theme">  
 
 
 ---
