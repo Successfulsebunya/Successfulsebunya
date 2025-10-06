@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Moses Cursor Ssebunya  🇺🇬
-### Test Team Rep 2025 - 2026 | Community | Photos | Training | Polyglots | Plugins | Themes | TV
+### [Test Team Rep 2025 - 2026](https://make.wordpress.org/test/2025/10/01/introducing-test-team-reps-for-2025-2026/) | Community | Photos | Training | Polyglots | Plugins | Themes | TV
 *(GitHub: @Successfulsebunya| WordPress Contributor: @mosescursor)*  
 
 [![GitHub followers](https://img.shields.io/github/followers/Successfulsebunya?label=Follow&style=social)](https://github.com/mosescursor)  
@@ -21,7 +21,7 @@
 ---
 
 ## 🚀 WordPress & Open Source Contributions  
-> *“I’m a website developer and WordPress enthusiast from Uganda. I love sharing knowledge, creating visually appealing websites, and contributing to open source.”* — [WordPress Profile](https://profiles.wordpress.org/mosescursor)  
+> *“I’m a website developer and WordPress enthusiast from Uganda. I love sharing knowledge, creating visually appealing websites, and contributing to open source.”* — More from my [WordPress Profile](https://profiles.wordpress.org/mosescursor)  
 
 - 📝 Contributor to **WordPress Core** & **Meta projects**  
 - 🌐 Translator & Localization (Multilingual contributions)  
