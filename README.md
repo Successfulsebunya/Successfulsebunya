@@ -15,8 +15,10 @@
 - Founder of **Cursor Technologies Uganda** (IT, websites, hosting, consultancy)  
 - Based in **Mukono, Uganda** 🇺🇬  
 - Passionate about **WordPress Core, plugins, Photos, TV, Testing, Accessibility and open source**  
-- Skilled in **WordPress, Illustrator, Microsoft Office, Documentation, Community, Program Management, Project Management**  
-- Active **Translator, Tester, Community Contributor, Accessibility Contributor & Technical Writer** in the WordPress community  
+- Skilled in **WordPress, Illustrator, Microsoft Office, Documentation, Community, Program Management, Project Management** 
+- Active **Translator, Tester, Community Contributor, Accessibility Contributor & Technical Writer** in the WordPress community
+
+[![Moses's WordPress Activity](https://www.cardpress.us/card?username=mosescursor&badges=true)](https://profiles.wordpress.org/mosescursor)
 
 ---
 
