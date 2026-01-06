@@ -18,7 +18,9 @@
 - Skilled in **WordPress, Illustrator, Microsoft Office, Documentation, Community, Program Management, Project Management** 
 - Active **Translator, Tester, Community Contributor, Accessibility Contributor & Technical Writer** in the WordPress community
 
-[![Moses's WordPress Activity](https://www.cardpress.us/card?username=mosescursor&badges=true)](https://profiles.wordpress.org/mosescursor)
+### WordPress Profile and Contribution:
+
+[![My WordPress Activity](https://www.cardpress.us/card?username=mosescursor&badges=true)](https://profiles.wordpress.org/mosescursor)
 
 ---
 
