@@ -41,6 +41,11 @@ A clean and responsive WordPress Block theme for bloggers and small businesses. 
 📸 *Screenshot*  
 <img src="https://github.com/Successfulsebunya/CursorFSE/blob/main/Screenshot.png" width="400" alt="Cursor FSE Theme">  
 
+### 🔧 MoCursor Smart TOC (WordPress Plugin)  
+A powerful, lightweight Gutenberg block that automatically generates a linked, navigable table of contents from your post headings. Zero configuration. Just works. <br/>
+[![Github Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/Successfulsebunya/CursorFSE)  
+📸 *Screenshot*  
+<img src="https://mosescursor.com/wp-content/uploads/2026/05/Mocursor-smart-TOC-Documentation.png" width="400" alt="MoCursor Smart Table Of Contents">  
 
 ---
 
