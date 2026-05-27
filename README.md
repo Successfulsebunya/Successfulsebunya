@@ -53,9 +53,6 @@ A powerful, lightweight Gutenberg block that automatically generates a linked, n
 
 ![Moses' GitHub Stats](https://github-readme-stats.vercel.app/api?username=Successfulsebunya&show_icons=true&theme=radical)      ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Successfulsebunya&layout=compact&theme=radical) 
 
-## 📊 GitHub Stats  
-
-![Moses' GitHub Stats](https://gh-stats.vercel.app/api?username=Successfulsebunya&show_icons=true&theme=radical)      ![Top Languages](https://gh-stats.vercel.app/api/top-langs/?username=Successfulsebunya&layout=compact&theme=radical)  
 
 
 ---
