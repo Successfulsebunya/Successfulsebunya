@@ -20,7 +20,7 @@
 
 ### WordPress Profile and Contribution:
 
-[![My WordPress Activity](https://www.cardpress.us/card?username=mosescursor&badges=true)](https://profiles.wordpress.org/mosescursor)
+[![My WordPress Activity](https://cardpress.us/card?username=mosescursor&badges=true&refresh=true)](https://profiles.wordpress.org/mosescursor)
 
 ---
 
